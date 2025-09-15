@@ -319,7 +319,7 @@ This application and its source code **CANNOT** be made publicly available becau
 
 ## 📄 License
 
-This project is **NOT** licensed under any public license due to security concerns. Access to source code is restricted and requires explicit permission from the developers.
+This project is **NOT** licensed under any public license due to security concerns. Access to source code is restricted.
 
 ## 🙏 Acknowledgments
 
